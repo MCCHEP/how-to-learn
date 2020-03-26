@@ -51,6 +51,10 @@
   bottom: 30px;
 }
 
+.header__link {
+  color: #2F80ED;
+  text-decoration: none;
+}
 .header__main-illustration {
   display: block;
   position: absolute;
@@ -204,7 +208,7 @@
 }
 
 .kaufman {
-  background-color:  #000000;
+  background-color:  #1F1F1F;
   position: relative;
   overflow: hidden;
   z-index: 0;
@@ -244,7 +248,7 @@
 
 .footer {
   padding: 60px 0 40px 0;
-  background-color: #000000;
+  background-color: #1F1F1F;
   display: flex;
   justify-content: center;
   min-height: 350px;
